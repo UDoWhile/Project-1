@@ -25,4 +25,4 @@ Open the `main.ipynb` file in Jupyter to view the analysis. Make sure to install
 
 ## Contributers:
 * TA: Jared Peck
-* Angelica Padilla, Enock Mudzamiri, Oliver Tabibzadeh, Leigh Nash, Antoine Baize
+* Angelica Padilla, Enock Mudzamiri, Oliver Tabibzadeh, Leigh Nash, Antoine Baize, Bharat Kumar
