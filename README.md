@@ -1,8 +1,7 @@
 # Project 1 - Exploratory Data Analysis
 
 ## Overview
-This repository contains the files for Project 1, focused on exploratory data analysis as part of Group 9's assignment. The main contents are housed in a Jupyter Notebook which demonstrates various data analysis techniques and visualizations.
-
+This project delves into the intricate relationship between hurricane occurrences in Florida and their impacts on the state's economic performance, particularly measured through changes in GDP. Through comprehensive data analysis, the findings highlight significant economic fluctuations correlated with hurricane activities. This analysis utilizes various statistical models to establish a clear link between the intensity and frequency of hurricanes and subsequent economic outcomes, illustrating the broader implications of climate events on regional economic stability.
 ## Contents
 - `Project 1_ Exploratory Data Analysis_Group 9.docx`: Documentation and report of the analysis.
 - `main.ipynb`: Jupyter Notebook with detailed code, comments, and visualization outputs.
