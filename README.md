@@ -23,3 +23,7 @@ To run the Jupyter Notebook locally:
 
 ## Usage
 Open the `main.ipynb` file in Jupyter to view the analysis. Make sure to install any required libraries mentioned in the notebook.
+
+## Contributers:
+* TA: Jared Peck
+* Angelica Padilla, Enock Mudzamiri, Oliver Tabibzadeh, Leigh Nash, Antoine Baize
