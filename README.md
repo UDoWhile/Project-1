@@ -7,7 +7,9 @@ This project delves into the intricate relationship between hurricane occurrence
 - `main.ipynb`: Jupyter Notebook with detailed code, comments, and visualization outputs.
 - `.gitignore`: Git ignore file.
 - `README.md`: This file, describing the project and repository structure.
-
+## Data Sources
+- bea.gov (Bureau of Economic Analysis Regional data GDP & Personal Income) https://apps.bea.gov/itable/?ReqID=70&step=1&_gl=1*198f059*_ga*MTg5NTE5MTM5NS4xNzE1MDQxMjcz*_ga_J4698JNNFT*MTcxNTA0MTI3My4xLjEuMTcxNTA0MTI5Mi40MS4wLjA.#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMV0sImRhdGEiOltbIlRhYmxlSWQiLCI1MzMiXSxbIk1ham9yX0FyZWEiLCI0Il1dfQ==
+- 
 ## Installation
 To run the Jupyter Notebook locally:
 
