@@ -1,0 +1,209 @@
+CAGDP1 County and MSA gross domestic product (GDP) summary,,,,
+CAGDP1 County and MSA gross domestic product (GDP) summary,,,,
+County,,,,
+GeoFips,GeoName,LineCode,Description,2020-2021
+12001,"Alachua, FL",1,Real GDP (thousands of chained 2017 dollars),6.7
+12001,"Alachua, FL",2,Chain-type quantity indexes for real GDP,6.7
+12001,"Alachua, FL",3,Current-dollar GDP (thousands of current dollars),10.2
+12003,"Baker, FL",1,Real GDP (thousands of chained 2017 dollars),4.4
+12003,"Baker, FL",2,Chain-type quantity indexes for real GDP,4.4
+12003,"Baker, FL",3,Current-dollar GDP (thousands of current dollars),9.5
+12005,"Bay, FL",1,Real GDP (thousands of chained 2017 dollars),8.3
+12005,"Bay, FL",2,Chain-type quantity indexes for real GDP,8.3
+12005,"Bay, FL",3,Current-dollar GDP (thousands of current dollars),13.5
+12007,"Bradford, FL",1,Real GDP (thousands of chained 2017 dollars),-2
+12007,"Bradford, FL",2,Chain-type quantity indexes for real GDP,-2
+12007,"Bradford, FL",3,Current-dollar GDP (thousands of current dollars),4.4
+12009,"Brevard, FL",1,Real GDP (thousands of chained 2017 dollars),9.8
+12009,"Brevard, FL",2,Chain-type quantity indexes for real GDP,9.8
+12009,"Brevard, FL",3,Current-dollar GDP (thousands of current dollars),12.9
+12011,"Broward, FL",1,Real GDP (thousands of chained 2017 dollars),9
+12011,"Broward, FL",2,Chain-type quantity indexes for real GDP,9
+12011,"Broward, FL",3,Current-dollar GDP (thousands of current dollars),13.1
+12013,"Calhoun, FL",1,Real GDP (thousands of chained 2017 dollars),6.4
+12013,"Calhoun, FL",2,Chain-type quantity indexes for real GDP,6.4
+12013,"Calhoun, FL",3,Current-dollar GDP (thousands of current dollars),12.3
+12015,"Charlotte, FL",1,Real GDP (thousands of chained 2017 dollars),4.2
+12015,"Charlotte, FL",2,Chain-type quantity indexes for real GDP,4.2
+12015,"Charlotte, FL",3,Current-dollar GDP (thousands of current dollars),8.2
+12017,"Citrus, FL",1,Real GDP (thousands of chained 2017 dollars),6
+12017,"Citrus, FL",2,Chain-type quantity indexes for real GDP,6
+12017,"Citrus, FL",3,Current-dollar GDP (thousands of current dollars),12.9
+12019,"Clay, FL",1,Real GDP (thousands of chained 2017 dollars),6.7
+12019,"Clay, FL",2,Chain-type quantity indexes for real GDP,6.7
+12019,"Clay, FL",3,Current-dollar GDP (thousands of current dollars),10.7
+12021,"Collier, FL",1,Real GDP (thousands of chained 2017 dollars),12.7
+12021,"Collier, FL",2,Chain-type quantity indexes for real GDP,12.7
+12021,"Collier, FL",3,Current-dollar GDP (thousands of current dollars),16.9
+12023,"Columbia, FL",1,Real GDP (thousands of chained 2017 dollars),0
+12023,"Columbia, FL",2,Chain-type quantity indexes for real GDP,0
+12023,"Columbia, FL",3,Current-dollar GDP (thousands of current dollars),9.1
+12027,"DeSoto, FL",1,Real GDP (thousands of chained 2017 dollars),0.3
+12027,"DeSoto, FL",2,Chain-type quantity indexes for real GDP,0.3
+12027,"DeSoto, FL",3,Current-dollar GDP (thousands of current dollars),7.1
+12029,"Dixie, FL",1,Real GDP (thousands of chained 2017 dollars),-4.5
+12029,"Dixie, FL",2,Chain-type quantity indexes for real GDP,-4.5
+12029,"Dixie, FL",3,Current-dollar GDP (thousands of current dollars),3.8
+12031,"Duval, FL",1,Real GDP (thousands of chained 2017 dollars),7.1
+12031,"Duval, FL",2,Chain-type quantity indexes for real GDP,7.1
+12031,"Duval, FL",3,Current-dollar GDP (thousands of current dollars),11.3
+12033,"Escambia, FL",1,Real GDP (thousands of chained 2017 dollars),7.2
+12033,"Escambia, FL",2,Chain-type quantity indexes for real GDP,7.2
+12033,"Escambia, FL",3,Current-dollar GDP (thousands of current dollars),11.5
+12035,"Flagler, FL",1,Real GDP (thousands of chained 2017 dollars),7.9
+12035,"Flagler, FL",2,Chain-type quantity indexes for real GDP,7.9
+12035,"Flagler, FL",3,Current-dollar GDP (thousands of current dollars),11.9
+12037,"Franklin, FL",1,Real GDP (thousands of chained 2017 dollars),3.3
+12037,"Franklin, FL",2,Chain-type quantity indexes for real GDP,3.3
+12037,"Franklin, FL",3,Current-dollar GDP (thousands of current dollars),6.8
+12039,"Gadsden, FL",1,Real GDP (thousands of chained 2017 dollars),-6.1
+12039,"Gadsden, FL",2,Chain-type quantity indexes for real GDP,-6.1
+12039,"Gadsden, FL",3,Current-dollar GDP (thousands of current dollars),1.2
+12041,"Gilchrist, FL",1,Real GDP (thousands of chained 2017 dollars),-6.1
+12041,"Gilchrist, FL",2,Chain-type quantity indexes for real GDP,-6.1
+12041,"Gilchrist, FL",3,Current-dollar GDP (thousands of current dollars),-0.3
+12043,"Glades, FL",1,Real GDP (thousands of chained 2017 dollars),-4.4
+12043,"Glades, FL",2,Chain-type quantity indexes for real GDP,-4.4
+12043,"Glades, FL",3,Current-dollar GDP (thousands of current dollars),3.8
+12045,"Gulf, FL",1,Real GDP (thousands of chained 2017 dollars),6.9
+12045,"Gulf, FL",2,Chain-type quantity indexes for real GDP,6.9
+12045,"Gulf, FL",3,Current-dollar GDP (thousands of current dollars),11.1
+12047,"Hamilton, FL",1,Real GDP (thousands of chained 2017 dollars),2
+12047,"Hamilton, FL",2,Chain-type quantity indexes for real GDP,2
+12047,"Hamilton, FL",3,Current-dollar GDP (thousands of current dollars),10.4
+12049,"Hardee, FL",1,Real GDP (thousands of chained 2017 dollars),-1
+12049,"Hardee, FL",2,Chain-type quantity indexes for real GDP,-1
+12049,"Hardee, FL",3,Current-dollar GDP (thousands of current dollars),9.3
+12051,"Hendry, FL",1,Real GDP (thousands of chained 2017 dollars),-2.4
+12051,"Hendry, FL",2,Chain-type quantity indexes for real GDP,-2.4
+12051,"Hendry, FL",3,Current-dollar GDP (thousands of current dollars),8.1
+12053,"Hernando, FL",1,Real GDP (thousands of chained 2017 dollars),6.9
+12053,"Hernando, FL",2,Chain-type quantity indexes for real GDP,6.9
+12053,"Hernando, FL",3,Current-dollar GDP (thousands of current dollars),10.8
+12055,"Highlands, FL",1,Real GDP (thousands of chained 2017 dollars),2.4
+12055,"Highlands, FL",2,Chain-type quantity indexes for real GDP,2.4
+12055,"Highlands, FL",3,Current-dollar GDP (thousands of current dollars),8
+12057,"Hillsborough, FL",1,Real GDP (thousands of chained 2017 dollars),8.5
+12057,"Hillsborough, FL",2,Chain-type quantity indexes for real GDP,8.5
+12057,"Hillsborough, FL",3,Current-dollar GDP (thousands of current dollars),12.7
+12059,"Holmes, FL",1,Real GDP (thousands of chained 2017 dollars),7
+12059,"Holmes, FL",2,Chain-type quantity indexes for real GDP,7
+12059,"Holmes, FL",3,Current-dollar GDP (thousands of current dollars),10.5
+12061,"Indian River, FL",1,Real GDP (thousands of chained 2017 dollars),13.8
+12061,"Indian River, FL",2,Chain-type quantity indexes for real GDP,13.8
+12061,"Indian River, FL",3,Current-dollar GDP (thousands of current dollars),18.5
+12063,"Jackson, FL",1,Real GDP (thousands of chained 2017 dollars),0.7
+12063,"Jackson, FL",2,Chain-type quantity indexes for real GDP,0.7
+12063,"Jackson, FL",3,Current-dollar GDP (thousands of current dollars),8.2
+12065,"Jefferson, FL",1,Real GDP (thousands of chained 2017 dollars),5.3
+12065,"Jefferson, FL",2,Chain-type quantity indexes for real GDP,5.3
+12065,"Jefferson, FL",3,Current-dollar GDP (thousands of current dollars),11.1
+12067,"Lafayette, FL",1,Real GDP (thousands of chained 2017 dollars),1.9
+12067,"Lafayette, FL",2,Chain-type quantity indexes for real GDP,1.9
+12067,"Lafayette, FL",3,Current-dollar GDP (thousands of current dollars),11
+12069,"Lake, FL",1,Real GDP (thousands of chained 2017 dollars),8.3
+12069,"Lake, FL",2,Chain-type quantity indexes for real GDP,8.3
+12069,"Lake, FL",3,Current-dollar GDP (thousands of current dollars),13
+12071,"Lee, FL",1,Real GDP (thousands of chained 2017 dollars),8.3
+12071,"Lee, FL",2,Chain-type quantity indexes for real GDP,8.3
+12071,"Lee, FL",3,Current-dollar GDP (thousands of current dollars),12.5
+12073,"Leon, FL",1,Real GDP (thousands of chained 2017 dollars),7.4
+12073,"Leon, FL",2,Chain-type quantity indexes for real GDP,7.4
+12073,"Leon, FL",3,Current-dollar GDP (thousands of current dollars),10.5
+12075,"Levy, FL",1,Real GDP (thousands of chained 2017 dollars),2.4
+12075,"Levy, FL",2,Chain-type quantity indexes for real GDP,2.4
+12075,"Levy, FL",3,Current-dollar GDP (thousands of current dollars),12.1
+12077,"Liberty, FL",1,Real GDP (thousands of chained 2017 dollars),-2.9
+12077,"Liberty, FL",2,Chain-type quantity indexes for real GDP,-2.9
+12077,"Liberty, FL",3,Current-dollar GDP (thousands of current dollars),5.1
+12079,"Madison, FL",1,Real GDP (thousands of chained 2017 dollars),0.3
+12079,"Madison, FL",2,Chain-type quantity indexes for real GDP,0.3
+12079,"Madison, FL",3,Current-dollar GDP (thousands of current dollars),4.9
+12081,"Manatee, FL",1,Real GDP (thousands of chained 2017 dollars),8.7
+12081,"Manatee, FL",2,Chain-type quantity indexes for real GDP,8.7
+12081,"Manatee, FL",3,Current-dollar GDP (thousands of current dollars),13.4
+12083,"Marion, FL",1,Real GDP (thousands of chained 2017 dollars),7.1
+12083,"Marion, FL",2,Chain-type quantity indexes for real GDP,7.1
+12083,"Marion, FL",3,Current-dollar GDP (thousands of current dollars),11.6
+12085,"Martin, FL",1,Real GDP (thousands of chained 2017 dollars),-0.9
+12085,"Martin, FL",2,Chain-type quantity indexes for real GDP,-0.9
+12085,"Martin, FL",3,Current-dollar GDP (thousands of current dollars),3.8
+12086,"Miami-Dade, FL",1,Real GDP (thousands of chained 2017 dollars),11.3
+12086,"Miami-Dade, FL",2,Chain-type quantity indexes for real GDP,11.3
+12086,"Miami-Dade, FL",3,Current-dollar GDP (thousands of current dollars),16.3
+12087,"Monroe, FL",1,Real GDP (thousands of chained 2017 dollars),12.2
+12087,"Monroe, FL",2,Chain-type quantity indexes for real GDP,12.2
+12087,"Monroe, FL",3,Current-dollar GDP (thousands of current dollars),16.8
+12089,"Nassau, FL",1,Real GDP (thousands of chained 2017 dollars),8.6
+12089,"Nassau, FL",2,Chain-type quantity indexes for real GDP,8.6
+12089,"Nassau, FL",3,Current-dollar GDP (thousands of current dollars),13.5
+12091,"Okaloosa, FL",1,Real GDP (thousands of chained 2017 dollars),7.7
+12091,"Okaloosa, FL",2,Chain-type quantity indexes for real GDP,7.7
+12091,"Okaloosa, FL",3,Current-dollar GDP (thousands of current dollars),11.1
+12093,"Okeechobee, FL",1,Real GDP (thousands of chained 2017 dollars),-2.6
+12093,"Okeechobee, FL",2,Chain-type quantity indexes for real GDP,-2.6
+12093,"Okeechobee, FL",3,Current-dollar GDP (thousands of current dollars),6.7
+12095,"Orange, FL",1,Real GDP (thousands of chained 2017 dollars),13.4
+12095,"Orange, FL",2,Chain-type quantity indexes for real GDP,13.4
+12095,"Orange, FL",3,Current-dollar GDP (thousands of current dollars),17.1
+12097,"Osceola, FL",1,Real GDP (thousands of chained 2017 dollars),10.3
+12097,"Osceola, FL",2,Chain-type quantity indexes for real GDP,10.3
+12097,"Osceola, FL",3,Current-dollar GDP (thousands of current dollars),15.2
+12099,"Palm Beach, FL",1,Real GDP (thousands of chained 2017 dollars),10.7
+12099,"Palm Beach, FL",2,Chain-type quantity indexes for real GDP,10.7
+12099,"Palm Beach, FL",3,Current-dollar GDP (thousands of current dollars),15.2
+12101,"Pasco, FL",1,Real GDP (thousands of chained 2017 dollars),10.7
+12101,"Pasco, FL",2,Chain-type quantity indexes for real GDP,10.7
+12101,"Pasco, FL",3,Current-dollar GDP (thousands of current dollars),15.1
+12103,"Pinellas, FL",1,Real GDP (thousands of chained 2017 dollars),7
+12103,"Pinellas, FL",2,Chain-type quantity indexes for real GDP,7
+12103,"Pinellas, FL",3,Current-dollar GDP (thousands of current dollars),10.4
+12105,"Polk, FL",1,Real GDP (thousands of chained 2017 dollars),5.8
+12105,"Polk, FL",2,Chain-type quantity indexes for real GDP,5.8
+12105,"Polk, FL",3,Current-dollar GDP (thousands of current dollars),12
+12107,"Putnam, FL",1,Real GDP (thousands of chained 2017 dollars),-5.3
+12107,"Putnam, FL",2,Chain-type quantity indexes for real GDP,-5.3
+12107,"Putnam, FL",3,Current-dollar GDP (thousands of current dollars),1.1
+12109,"St. Johns, FL",1,Real GDP (thousands of chained 2017 dollars),9.4
+12109,"St. Johns, FL",2,Chain-type quantity indexes for real GDP,9.4
+12109,"St. Johns, FL",3,Current-dollar GDP (thousands of current dollars),13.6
+12111,"St. Lucie, FL",1,Real GDP (thousands of chained 2017 dollars),7.5
+12111,"St. Lucie, FL",2,Chain-type quantity indexes for real GDP,7.5
+12111,"St. Lucie, FL",3,Current-dollar GDP (thousands of current dollars),13.4
+12113,"Santa Rosa, FL",1,Real GDP (thousands of chained 2017 dollars),6.1
+12113,"Santa Rosa, FL",2,Chain-type quantity indexes for real GDP,6.1
+12113,"Santa Rosa, FL",3,Current-dollar GDP (thousands of current dollars),11.1
+12115,"Sarasota, FL",1,Real GDP (thousands of chained 2017 dollars),4.8
+12115,"Sarasota, FL",2,Chain-type quantity indexes for real GDP,4.8
+12115,"Sarasota, FL",3,Current-dollar GDP (thousands of current dollars),8.1
+12117,"Seminole, FL",1,Real GDP (thousands of chained 2017 dollars),6.9
+12117,"Seminole, FL",2,Chain-type quantity indexes for real GDP,6.9
+12117,"Seminole, FL",3,Current-dollar GDP (thousands of current dollars),10.3
+12119,"Sumter, FL",1,Real GDP (thousands of chained 2017 dollars),16.6
+12119,"Sumter, FL",2,Chain-type quantity indexes for real GDP,16.6
+12119,"Sumter, FL",3,Current-dollar GDP (thousands of current dollars),21.8
+12121,"Suwannee, FL",1,Real GDP (thousands of chained 2017 dollars),4.6
+12121,"Suwannee, FL",2,Chain-type quantity indexes for real GDP,4.6
+12121,"Suwannee, FL",3,Current-dollar GDP (thousands of current dollars),12.2
+12123,"Taylor, FL",1,Real GDP (thousands of chained 2017 dollars),-6.5
+12123,"Taylor, FL",2,Chain-type quantity indexes for real GDP,-6.5
+12123,"Taylor, FL",3,Current-dollar GDP (thousands of current dollars),1.5
+12125,"Union, FL",1,Real GDP (thousands of chained 2017 dollars),6.3
+12125,"Union, FL",2,Chain-type quantity indexes for real GDP,6.3
+12125,"Union, FL",3,Current-dollar GDP (thousands of current dollars),11.8
+12127,"Volusia, FL",1,Real GDP (thousands of chained 2017 dollars),4.9
+12127,"Volusia, FL",2,Chain-type quantity indexes for real GDP,4.9
+12127,"Volusia, FL",3,Current-dollar GDP (thousands of current dollars),9.5
+12129,"Wakulla, FL",1,Real GDP (thousands of chained 2017 dollars),6
+12129,"Wakulla, FL",2,Chain-type quantity indexes for real GDP,6
+12129,"Wakulla, FL",3,Current-dollar GDP (thousands of current dollars),12.5
+12131,"Walton, FL",1,Real GDP (thousands of chained 2017 dollars),16.6
+12131,"Walton, FL",2,Chain-type quantity indexes for real GDP,16.6
+12131,"Walton, FL",3,Current-dollar GDP (thousands of current dollars),21.2
+12133,"Washington, FL",1,Real GDP (thousands of chained 2017 dollars),4.9
+12133,"Washington, FL",2,Chain-type quantity indexes for real GDP,4.9
+12133,"Washington, FL",3,Current-dollar GDP (thousands of current dollars),10.2
+,,,,
+Legend/Footnotes,,,,
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020.",,,,
+"  Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021.",,,,
