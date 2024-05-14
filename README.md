@@ -1,7 +1,7 @@
 # Project 1 - Exploratory Data Analysis
 
 ## Overview
-This project delves into the intricate relationship between hurricane occurrences in Florida and their impacts on the state's economic performance, particularly measured through changes in GDP. Through comprehensive data analysis, the findings highlight significant economic fluctuations correlated with hurricane activities. This analysis utilizes various statistical models to establish a clear link between the intensity and frequency of hurricanes and subsequent economic outcomes, illustrating the broader implications of climate events on regional economic stability.
+This project comprehensively analyzes the correlation between Florida's GDP and unemployment data across various counties from 2019 to 2021. In addition to the primary economic indicators, it investigates the impact of the COVID-19 pandemic on these datasets, exploring how the pandemic influenced GDP and unemployment trends during this period. The aim is to provide a nuanced understanding of the economic dynamics within Florida's counties in the context of a significant global event.
 ## Contents
 - `Project 1_ Exploratory Data Analysis_Group 9.docx`: Documentation and report of the analysis.
 - `main.ipynb`: Jupyter Notebook with detailed code, comments, and visualization outputs.
