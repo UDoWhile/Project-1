@@ -1,5 +1,5 @@
 # Project 1 - Exploratory Data Analysis
-
+## Team Nine
 ## Overview
 This project comprehensively analyzes the correlation between Florida's GDP and unemployment data across various counties from 2019 to 2021. In addition to the primary economic indicators, it investigates the impact of the COVID-19 pandemic on these datasets, exploring how the pandemic influenced GDP and unemployment trends during this period. The aim is to provide a nuanced understanding of the economic dynamics within Florida's counties in the context of a significant global event.
 ## Contents
