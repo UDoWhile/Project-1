@@ -16,6 +16,7 @@ To run the Jupyter Notebook locally:
 
 2. Ensure you have Jupyter installed:
 * pip install notebook
+* pip install Seaborn
 
 3. Run Jupyter Notebook:
 * jupyter notebook 
