@@ -7,7 +7,7 @@ This project comprehensively analyzes the correlation between Florida's GDP and 
 - `main.ipynb`: Jupyter Notebook with detailed code, comments, and visualization outputs.
 - `.gitignore`: Git ignore file.
 - `README.md`: This file, describing the project and repository structure.
-
+- AI_Bootcamp_Project1.pptx
 ## Installation
 To run the Jupyter Notebook locally:
 
